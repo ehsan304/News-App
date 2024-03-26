@@ -2,7 +2,9 @@ import React from 'react'
 
 function NewsBoard() {
   return (
-    <div>NewsBoard</div>
+    <div>
+        <h2 className='text-center'>Latest <span className=''>News</span></h2>
+    </div>
   )
 }
 
